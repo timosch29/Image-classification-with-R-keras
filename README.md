@@ -9,7 +9,7 @@ Courtesy from R-bloggers: https://www.r-bloggers.com/teach-r-to-see-by-borrowing
     
    ![alt text](https://i1.wp.com/blog.ephorie.de/wp-content/uploads/2019/06/WIN_20180624_20_08_13_Pro-300x225.jpg?resize=300%2C225)
 
-    Here are a few examples of my experiments with my own crappy webcam: <br>
+    Classification result of webcam picture:
 
 
      class_name class_description        score
