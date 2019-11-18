@@ -1,0 +1,5 @@
+# ignore these files for version control
+
+Image classification.Rproj
+.Rhistory
+.Rproj.user
