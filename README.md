@@ -1,6 +1,6 @@
 # Image Classification with the Keras Interface for R
 
-Use the Keras Interface for R to classify objects in a webcam image with the Neural Network Model resnet_50 <br>
+Use the Keras Interface for R to classify objects in a webcam image with the Neural Network model resnet_50 <br>
 
 For the install and use of Keras for R see:  https://github.com/FrancisArgnR/Guide-Keras-R <br>
 Courtesy from R-bloggers: https://www.r-bloggers.com/teach-r-to-see-by-borrowing-a-brain/:
